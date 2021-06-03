@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(67, 189, 179);
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  align-content: space-around;
+  justify-content: center;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  height: 20%;
+  font-family:sans-serif;
+}

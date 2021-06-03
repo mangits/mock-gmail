@@ -1,4 +1,5 @@
 import React from 'react';
+import './AllMessages.css'
 
 class AllMessages extends React.Component {
   constructor(props) {

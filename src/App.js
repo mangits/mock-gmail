@@ -13,6 +13,9 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
+        <div>
+          <h1>Mock Email App!</h1>
+        </div>
         <SendEmail />
         <AllMessages />
       </div>
